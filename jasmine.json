@@ -1,0 +1,10 @@
+
+{
+    "spec_dir": "test/unit/specs/",
+    "spec_files": [
+        "jasmineTest.js"
+    ],
+    "helpers": [
+        "../../../node_modules/babel-core/register.js"
+    ]
+}
